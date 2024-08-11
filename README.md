@@ -70,7 +70,6 @@
 ### Common Issues:
 - **Python not recognized**: Ensure Python is installed correctly and added to your PATH.
 - **Library installation issues**: If the `pip install` command fails, try running it again or check your internet connection.
-
----
-
-This guide should make it easy for anyone, even those without technical knowledge, to set up and use both the programs and the website.
+  
+### Youtube Links:
+- https://youtu.be/5UMPKnLE0H4
